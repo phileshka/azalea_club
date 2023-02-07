@@ -1,0 +1,58 @@
+html body{
+    font-family: 'Montserrat', sans-serif;
+    background: #fefbf1;
+}
+.for_page{
+    color: black;
+    font-size: 24px;
+}
+
+img{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
+.header{
+}
+
+.header .logo{
+    width: 150px;
+    height: 150px;
+}
+
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.menu ul.sub_menu li a {
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: black;
+    font-size: 32px;
+}
+
+.menu ul.sub_menu li a:hover{
+    color:goldenrod;
+}
+
+.main .main_text{
+    padding-top: 40px;
+}
+
+.main .quote{
+    text-align: center;
+}
+
+.main .author{
+    text-align:end ;
+}
+.banner img{
+    border-width: 5px; ;
+    border-color: gold;
+}

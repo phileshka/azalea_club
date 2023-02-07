@@ -1,0 +1,46 @@
+img{
+    width: auto;
+    height: auto;
+    max-width: 60%;
+    
+}
+
+.main img{
+    border-radius: 50%;
+}
+.for_page{
+    background-image: url(../img/gravel/blackwall.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.header h2{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 40px;
+}
+
+.discription{
+    padding-top: 20px;
+}
+
+.block_one {
+    padding-bottom: 40px;
+}
+
+.block_two{
+    padding-bottom: 40px;
+}
+
+.block_three{
+    padding-bottom: 40px;
+}
+
+.block_four{
+    padding-bottom: 40px;
+}
+
+.block_five{
+    padding-bottom: 40px;
+}
