@@ -12,8 +12,7 @@ img{
     height: auto;
     max-width: 100%;
 }
-.header{
-}
+
 
 .header .logo{
     width: 150px;
@@ -25,6 +24,7 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 60px;
+    margin-right: -200px;
 }
 
 .menu ul.sub_menu li a {
