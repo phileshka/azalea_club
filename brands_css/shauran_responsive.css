@@ -1,0 +1,25 @@
+@media (min-width: 1200px) {
+    .for_page .container {
+        max-width: 1440px;
+
+    }
+}
+
+@media (max-width: 1199px) {
+  .discription{
+    padding-top: 0px;
+}
+}
+@media (max-width: 992px){
+    .main{
+        text-align: center;
+    }
+
+    .discription{
+        padding-top: 30px;
+    }
+}
+
+@media (max-width: 768px){
+
+}

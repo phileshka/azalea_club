@@ -28,6 +28,9 @@ img{
     color: orange;
 }
 .picture img{
-    border: 3px solid black;
-    box-shadow: 15px 15px 15px  black;
+    border: 3px solid gray;
+    box-shadow: 15px 15px 15px  gray;
+}
+.discription{
+    padding-top: 45px;
 }
