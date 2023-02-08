@@ -1,3 +1,7 @@
+html body{
+    font-family: 'Montserrat', sans-serif;
+    /* background: #fefbf1; */
+}
 img{
     width: auto;
     height: auto;
