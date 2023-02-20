@@ -11,15 +11,13 @@
     
 }
 @media (max-width: 992px){
-    .logo{
+    /* .logo{
         margin: 0 auto;
-        padding-left: 20px;
 
     }
     .menu ul.sub_menu li a{
-        padding-right: 220px;
-    }
+        
+    } */
 }
 @media (max-width: 768px){
-
 }
