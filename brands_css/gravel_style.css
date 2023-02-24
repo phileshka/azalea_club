@@ -13,9 +13,11 @@ img{
     border-radius: 50%;
 }
 .for_page{
-    background-image: url(../img/gravel/blackwall.jpg);
-    background-size: cover;
+    /* background-image: url(../img/gravel/blackwall.jpg);
+    background-size: cover; */
     color: white;
+    background: black;
+    text-align: center;
 }
 
 .header h2{
@@ -27,6 +29,7 @@ img{
 
 .discription{
     padding-top: 30px;
+    text-align: center;
 }
 
 .block_one {

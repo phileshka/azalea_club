@@ -12,6 +12,7 @@ img{
     /* background-image: url(../img/royal_crown/bg_royal.jpg); */
     background-size: cover;
     color: black;
+    text-align: center;
 }
 
 .header h2{
@@ -33,4 +34,5 @@ img{
 }
 .discription{
     padding-top: 45px;
+    text-align: center;
 }
