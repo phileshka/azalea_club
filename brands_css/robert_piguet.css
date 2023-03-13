@@ -23,10 +23,10 @@ img{
 }
 
 .block{
-    padding-bottom: 40px;
+    padding-bottom: 80px;
 }
 .block h4{
-    color: #F5B963;
+    color: black;
 }
 
 .picture img{
@@ -34,6 +34,6 @@ img{
     box-shadow: 15px 15px 15px  black;
 }
 
-.discription{
+/* .discription{
 padding-top: 45px;
-}
+} */
