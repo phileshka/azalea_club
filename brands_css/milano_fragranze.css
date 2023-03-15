@@ -11,7 +11,7 @@ img{
 .for_page{
     /* background-image: url(../img/royal_crown/bg_royal.jpg); */
     background-size: cover;
-    color: #461F00;
+    color: black;
     text-align: center;
 }
 
@@ -20,21 +20,21 @@ img{
     padding-top: 40px;
     padding-bottom: 40px;
     font-size: 40px;
+    color: rgb(64, 64, 151);
 }
 
 .block{
-    padding-bottom: 40px;
+    padding-bottom: 80px;
 }
 .block h4{
-    color: #461F00;
+    color: rgb(64, 64, 151);
 }
 
 .picture img{
-    border: 2px solid #461F00;
-    box-shadow: 15px 15px 15px  #461F00;
+    border: 2px solid rgb(64, 64, 151);
+    box-shadow: 15px 15px 15px  rgb(64, 64, 151);
 }
-
 .discription{
-    padding-top: 25px;
+    padding-top: 30px;
     text-align: center;
 }
