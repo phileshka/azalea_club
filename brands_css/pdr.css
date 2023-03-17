@@ -1,0 +1,40 @@
+html body{
+    font-family: 'Montserrat', sans-serif;
+    background: #fefbf1;
+}
+img{
+    width: auto;
+    height: auto;
+    max-width: 60%;
+
+}
+.for_page{
+    /* background-image: url(../img/royal_crown/bg_royal.jpg); */
+    background-size: cover;
+    color: black;
+    text-align: center;
+}
+
+.header h2{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 40px;
+    color: #d70056;
+}
+
+.block{
+    padding-bottom: 80px;
+}
+.block h4{
+    color: #d70056;
+}
+
+.picture img{
+    border: 2px solid #d9759d;
+    box-shadow: 10px 10px 10px  #d9759d;
+}
+.discription{
+    padding-top: 30px;
+    text-align: center;
+}
